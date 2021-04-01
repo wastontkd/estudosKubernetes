@@ -1,0 +1,10 @@
+{
+    "name": "simple-node",
+    "version": "1.0.0",
+    "description": "Um exemplo simples de applicacao para kubernets UP & RUNNING",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": ""
+}
