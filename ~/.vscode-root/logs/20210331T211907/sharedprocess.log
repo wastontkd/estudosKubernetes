@@ -1,3 +1,0 @@
-[2021-03-31 21:19:11.441] [sharedprocess] [info] main {"machineId":"1f09b062b7e766c6698eed5c5e85c25756794562e984d3af21a5f16e3ddf7023","windowId":2}
-[2021-03-31 21:19:11.491] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/waston/estudosKubernetes/~/.vscode-root/User/snippets'
-[2021-03-31 21:19:51.467] [sharedprocess] [info] Starting to clean up unused language packs.
