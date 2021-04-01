@@ -14,3 +14,4 @@ COPY . .
 
 #comando default para iniciar o container * 5
 CMD ["npm", "start"]
+ 
